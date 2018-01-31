@@ -7,7 +7,7 @@ public class Main {
     private String masyvas[];
     private Scanner sc = new Scanner(System.in);
 
-    public static void main(String[] args) {
+    public void main(String[] args) {
 
         Main objektas = new Main();
         objektas.nuskaitymas();
